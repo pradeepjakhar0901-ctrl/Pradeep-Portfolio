@@ -86,7 +86,7 @@ export default function App() {
             </a>
 
             
-            <a href={"https://www.instagram.com/It's_pradeep/"} target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none', textAlign: 'center' }}>
+            <a href={"https://www.instagram.com/itspradeep7364/"} target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none', textAlign: 'center' }}>
               <Instagram color="#E1306C" size={40}/><br/><span style={{ fontSize: '0.8rem', marginTop: '8px', display: 'block' }}>Direct DM</span>
             </a>
 
