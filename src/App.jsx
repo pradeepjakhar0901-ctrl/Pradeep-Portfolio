@@ -3,7 +3,7 @@ import { Instagram, MessageCircle, Send, Code, Terminal, Cpu, User, CheckCircle 
 
 export default function App() {
   const cyan = "#00e5ff";
-  const instaID = "@ITSPRADEEP7364"; 
+
 
   return (
     <div style={{ 
@@ -86,7 +86,7 @@ export default function App() {
             </a>
 
             
-            <a href={`https://www.instagram.com/direct/t/${instaID}`} target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none', textAlign: 'center' }}>
+            <a href={"https://www.instagram.com/It's_pradeep/"} target="_blank" rel="noreferrer" style={{ color: 'white', textDecoration: 'none', textAlign: 'center' }}>
               <Instagram color="#E1306C" size={40}/><br/><span style={{ fontSize: '0.8rem', marginTop: '8px', display: 'block' }}>Direct DM</span>
             </a>
 
