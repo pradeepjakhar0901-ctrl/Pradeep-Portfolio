@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html, #root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #050505;
+  overflow: auto !important; 
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#root {
+  display: block;
+}
+
+h1 {
+  font-weight: 900;
+  letter-spacing: -2px;
+}
+
+p {
+  opacity: 0.8;
+  letter-spacing: 2px;
+}
